@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #bd9696;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -55,7 +55,7 @@ h4 {
 }
 
 .inc-exp-container > div:first-of-type {
-  border-right: 1px solid #dedede;
+  border-right: 1px solid #e6d1d1;
 }
 
 .money {
@@ -89,7 +89,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #503cb4c9;
+  background-color: #3b26a5c9;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
